@@ -1,5 +1,5 @@
 html,body{margin:0;padding:0}
-body{font: 120% arial,sans-serif;text-align:center}
+body{font: 100% arial,sans-serif;text-align:center}
 p{margin:0 10px 10px}
 a{padding:5px; text-decoration:none; color:#000000;}
 div#header{background-color:#F3F2ED;}
@@ -12,7 +12,7 @@ div#navigation li{margin-bottom:5px; color: blue;}
 div#extra{background:#CCC8B3;}
 div#footer{background:#BFBD93;}
 div#footer p{margin:0;padding:5px 10px}
-div#container{width:1000px;margin:0 auto}
+div#container{width:700px;margin:0 auto}
 div#wrapper{float:left;width:100%}
 div#content{margin: 0 150px}
 div#navigation{float:left;width:150px;margin-left:-150px}
